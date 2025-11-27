@@ -1,10 +1,10 @@
 {
-    "name": "cassa-meteora-dev",
-    "version": "1.0.0",
-    "description": "Un applicazione per connettere la tua cassa a Meteora",
+    "name": "nativephp",
+    "version": "2.0.0",
+    "description": "A NativePHP Electron application",
     "main": "./out/main/index.js",
-    "author": "Meteora",
-    "homepage": "https://mete-ora.com",
+    "author": "NativePHP",
+    "homepage": "https://nativephp.com",
     "type": "module",
     "engines": {
         "node": ">=22.0.0"
