@@ -51,7 +51,6 @@
                 </div>
                 <div class="text-center mb-4">
                     <div class="brand-title">ACCESSO CASSA</div>
-                    <!-- <div><span>Vers. {{ config('nativephp.version') }}</span></div> -->
                     <p class="text-white-50 mt-2">Inserisci il tuo codice per continuare</p>
                 </div>
 

@@ -55,7 +55,6 @@
         <!-- TITOLO -->
         <div class="text-center mb-4">
             <div class="brand-title">CONFIGURAZIONE CASSA</div>
-            <div><span>Vers. {{ config('nativephp.version') }}</span></div>
             <p class="text-white-50 mt-2">Configura i parametri della postazione</p>
         </div>
 

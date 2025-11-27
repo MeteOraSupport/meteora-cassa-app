@@ -12,7 +12,6 @@
 
             <div class="col-xl-6 col-12 col-md-6">
                 <h2 class="mb-3">Scontrini Cassa #{{ $cassa['id'] }}</h2>
-                <!-- <div><span>Vers. {{ config('nativephp.version') }}</span></div> -->
                 <div class="fs-5 mb-1">
                     <strong>Cassa:</strong> {{ $cassa['name'] }}
                 </div>
