@@ -108,7 +108,7 @@ return [
         'providers' => [
             'github' => [
                 'driver' => 'github',
-                'repo' => env('GITHUB_REPO', 'meteora-cassa'),
+                'repo' => env('GITHUB_REPO', 'meteora-cassa-app'),
                 'owner' => env('GITHUB_OWNER', 'MeteOraSupport'),
                 'token' => env('GITHUB_TOKEN'),
                 'vPrefixedTagName' => env('GITHUB_V_PREFIXED_TAG_NAME', true),
