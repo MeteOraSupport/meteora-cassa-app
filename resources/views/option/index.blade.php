@@ -16,7 +16,7 @@
     .brand-title {
         font-size: 28px;
         font-weight: 700;
-        color: #4EA6FF;
+        color: #4EA6FF!important;
         letter-spacing: 1px;
     }
 
@@ -47,15 +47,16 @@
 
         <!-- LOGO -->
         <div class="text-center mb-4">
-            <img src="{{ asset('default_image/logo_cassa.png') }}"
+            {{-- <img src="{{ asset('default_image/logo_cassa.png') }}"
                  alt="logo_meteora_cassa"
-                 style="width: 220px;">
+                 style="width: 220px;"> --}}
+            <img src="{{ asset('default_image/logo_restyle_2.png') }}" alt="logo_meteora_cassa" style="width: 220px;">
         </div>
 
         <!-- TITOLO -->
         <div class="text-center mb-4">
             <div class="brand-title">CONFIGURAZIONE CASSA</div>
-            <p class="text-white-50 mt-2">Configura i parametri della postazione</p>
+            <p class="text-black-50 mt-2">Configura i parametri della postazione</p>
         </div>
 
         <div class="settings-card">

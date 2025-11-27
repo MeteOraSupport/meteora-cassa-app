@@ -51,7 +51,7 @@
                 </div>
                 <div class="text-center mb-4">
                     <div class="brand-title">ACCESSO CASSA</div>
-                    <p class="text-white-50 mt-2">Inserisci il tuo codice per continuare</p>
+                    <p class="text-black-50 mt-2">Inserisci il tuo codice per continuare</p>
                 </div>
 
                 <div class="login-card">
